@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bobby.BobbyChain</string>
+				<string>com.justep.x5.demo</string>
 				<key>bundle-version</key>
-				<string>1.2.0</string>
+				<string>5.3.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>bobby dapp download</string>
+				<string>X5 App download</string>
 			</dict>
 		</dict>
 	</array>
